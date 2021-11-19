@@ -6,5 +6,5 @@ class Zoo():
 
     def imprimir(self):
         for animal in self.catalogo:
-            animal,imprimir()
+            animal.imprimir
             print()
